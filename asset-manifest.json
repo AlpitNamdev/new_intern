@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/intership/static/css/main.48399210.chunk.css",
+    "main.js": "/intership/static/js/main.7dacb8d2.chunk.js",
+    "main.js.map": "/intership/static/js/main.7dacb8d2.chunk.js.map",
+    "runtime-main.js": "/intership/static/js/runtime-main.0e901a52.js",
+    "runtime-main.js.map": "/intership/static/js/runtime-main.0e901a52.js.map",
+    "static/js/2.54fcb014.chunk.js": "/intership/static/js/2.54fcb014.chunk.js",
+    "static/js/2.54fcb014.chunk.js.map": "/intership/static/js/2.54fcb014.chunk.js.map",
+    "static/js/3.dae3051d.chunk.js": "/intership/static/js/3.dae3051d.chunk.js",
+    "static/js/3.dae3051d.chunk.js.map": "/intership/static/js/3.dae3051d.chunk.js.map",
+    "index.html": "/intership/index.html",
+    "static/css/main.48399210.chunk.css.map": "/intership/static/css/main.48399210.chunk.css.map",
+    "static/js/2.54fcb014.chunk.js.LICENSE.txt": "/intership/static/js/2.54fcb014.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e901a52.js",
+    "static/js/2.54fcb014.chunk.js",
+    "static/css/main.48399210.chunk.css",
+    "static/js/main.7dacb8d2.chunk.js"
+  ]
+}

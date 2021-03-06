@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    width: 400px;
+    margin: 120px auto;
+    box-shadow: 0 0 8px grey;
+    padding-top: 80px;
+    background-color: rgb(0, 0, 0);
+}
+form .inner{
+    width: 100%;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+   background-color: rgb(255, 255, 255);
+}
+.profile{
+    position: absolute;
+    top: 0;
+    right: 50%;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: translate(50%,-55%);
+}
+.profile img{
+    width: 100%;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+.form_field{
+    margin: 12px auto;
+    position: relative;
+    width: 100%;
+}
+.form_field input{
+   width: 100%;
+    padding: 8px 12px;
+    font-size: 18px;
+    text-align: center;
+    background-color: rgba(230, 230, 230, 0.692);
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    border-bottom: 4px solid rgb(230, 230, 230);
+}
+button{
+    padding: 6px 36px;
+    border-radius: 24px;
+    font-size: 16px;
+    border: none;
+    background-color: rgb(0, 0, 0);
+    color: rgb(187, 187, 187);
+    text-transform: uppercase;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+.err_msg{
+    font-size: 14px;
+    color: red;
+}
+.err{
+    border: 1px solid red;
+}

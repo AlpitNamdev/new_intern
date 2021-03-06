@@ -1,0 +1,11 @@
+h1{
+    font-size: 72px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 16px grey;
+    width: 600px;
+    vertical-align: middle;
+    margin: 250px auto;
+    text-align: center;
+    font-family: monospace;
+}

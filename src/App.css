@@ -1,0 +1,13 @@
+
+.nav a{
+text-decoration: none;
+color: rgb(255, 255, 255);
+font-size: 18px;
+padding: 10px;
+}
+.page{
+    background: url("https://cdn.pixabay.com/photo/2020/11/11/10/38/cat-5732087_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}

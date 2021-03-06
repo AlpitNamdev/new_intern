@@ -1,0 +1,26 @@
+.counter_inner{
+    display: flex;
+    width: 400px;
+    margin: 220px auto;
+    align-items: center;
+    justify-content: space-around;
+    background-color: lightblue;
+    padding: 50px;
+}
+.counter_inner button{
+    background:none;
+    border: none;
+    font-size: 44px;
+    color: blue;
+    outline: none;
+}
+.counter_inner .count{
+    /* width: 60px; */
+    background-color: rgba(0, 0, 255, 0.671);
+    color: white;
+padding: 20px;
+    font-size: 50px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 900;
+}
